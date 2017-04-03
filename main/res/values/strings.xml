@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">புகார் பெட்டி</string>
+
+    <string name="email_filter">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@_1234567890.!#$%&amp;\'*+-/=?^_`{|}~ &quot;&apos;&lt;&gt;&amp;</string>
+    <string name="password_filter">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@_1234567890!\"#$%&amp;\'()*+,-./:;?@[\]^_`{|}~&quot;&apos;&lt;&gt;&amp;=</string>
+    <string name="number_filter">0123456789</string>
+    <string name="name_filter">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ </string>
+    <string name="title_activity_main">ActivityMain</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_post">ActivityNewPost</string>
+
+    <string-array name="user_types">
+        <item>User</item>
+        <item>Head</item>
+        <item>Admin</item>
+    </string-array>
+
+    <string-array name="user_type_ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="post_category">
+        <item>CIVIC ISSUES</item>
+        <item>GLOBAL INDIANS</item>
+        <item>NEWS</item>
+        <item>OTHERS</item>
+        <item>SOCIAL ISSUES</item>
+        <item>SPORTS</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
